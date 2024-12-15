@@ -12633,11 +12633,11 @@ cycle-racks/"}]
     }
   </style>
   <div class="fixed-footer">
-    <a href="https://jaga.link/slot777abiez" rel="nofollow noopener" target="_blank">
+    <a href="https://slot777menyala.web.app/" rel="nofollow noopener" target="_blank">
       <img layout="intrinsic" src="https://cdn-icons-png.freepik.com/512/1458/1458238.png" alt="Live Chat"> Live Chat </a>
-    <a href="https://jaga.link/slot777abiez" rel="nofollow noopener" target="_blank">
+    <a href="https://slot777menyala.web.app/" rel="nofollow noopener" target="_blank">
       <img layout="intrinsic" src="https://cdn-icons-png.flaticon.com/512/1250/1250346.png" alt="Daftar"> DAFTAR </a>
-    <a href="https://jaga.link/slot777abiez" rel="nofollow noopener" target="_blank" class="js_live_chat_link live-chat-link">
+    <a href="https://slot777menyala.web.app/" rel="nofollow noopener" target="_blank" class="js_live_chat_link live-chat-link">
       <img class="live-chat-icon" layout="intrinsic" src="https://cdn-icons-png.flaticon.com/512/1077/1077114.png" alt="Masuk"> LOGIN </a>
   </div>
   <script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"rayId":"8ebc077a6ad108f0","version":"2024.10.5","r":1,"token":"4bd6fc3b8776456b9997e9ee18d1467c","serverTiming":{"name":{"cfExtPri":true,"cfL4":true,"cfSpeedBrain":true,"cfCacheStatus":true}}}' crossorigin="anonymous"></script>
