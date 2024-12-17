@@ -4052,15 +4052,15 @@ window.onload = function() {
 </script>
 <style>.fixed-footer{display:flex;justify-content:space-around;position:fixed;background:linear-gradient(to bottom, #979797 2%, #979797 20%, #000000 100%);padding:5px 0;border-radius:50px 50px 0 0;left:0;right:0;bottom:0;z-index:99}.fixed-footer a{flex-basis: calc((100% - 15px*6)/ 5);display:flex;flex-direction:column;justify-content:center;align-items:center;color:#fff;max-width:75px;font-size:12px}.fixed-footer .center{transform:scale(1.5) translateY(-5px);background:center no-repeat;background-size:contain;background-color:inherit;border-radius:50%}.fixed-footer img{max-width:30%;margin-bottom:5px}</style>
   <div class="fixed-footer">
-    <a href="https://jaga.link/msbrewc" rel="nofollow noopener" target="_blank">
+    <a href="https://jali.pro/slot777jebolmaxwin" rel="nofollow noopener" target="_blank">
       <img layout="intrinsic" src="https://cdn-icons-png.freepik.com/512/1458/1458238.png" alt="Live Chat">
         Live Chat
        </a>
-    <a href="https://jaga.link/msbrewc" rel="nofollow noopener" target="_blank">
+    <a href="https://jali.pro/slot777jebolmaxwin" rel="nofollow noopener" target="_blank">
       <img layout="intrinsic" src="https://cdn-icons-png.flaticon.com/512/1250/1250346.png" alt="Daftar">
         DAFTAR
     </a>
-    <a href="https://jaga.link/msbrewc" rel="nofollow noopener" target="_blank" class="js_live_chat_link live-chat-link">
+    <a href="https://jali.pro/slot777jebolmaxwin" rel="nofollow noopener" target="_blank" class="js_live_chat_link live-chat-link">
       <img class="live-chat-icon" layout="intrinsic" src="https://cdn-icons-png.flaticon.com/512/1077/1077114.png" alt="Masuk">
         LOGIN
     </a>
